@@ -1,0 +1,12 @@
+node_modules
+.env*
+vendor
+venv
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+vendor/
+composer.lock
+.DS_Store
+daily_inventory_report*
